@@ -208,6 +208,12 @@ var rules = {
     "Can you think of anyone in particular?",
     "Who, for example?",
     "You are thinking of a special person",
+    ],
+  "~*x Bard ~*y": [
+    "How's L&T",
+    "What dorm?",
+    "REALLY???",
+    "Follow me on instagram",
   ],
   "~*x always ~*y": [
     "Can you think of a specific example?",
