@@ -214,6 +214,9 @@ var rules = {
     "What dorm?",
     "REALLY???",
     "Follow me on instagram",
+    "Tristan",
+    "I Love DTR",
+    "Dessert with Botsein???!!1",
   ],
   "~*x always ~*y": [
     "Can you think of a specific example?",
